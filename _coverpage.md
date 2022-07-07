@@ -12,4 +12,4 @@
 - 可以通过邮件或者github直接提交的形式来维护这个文档
 
 [补充和建议](mailto:19547138@qq.com)
-[github提交]([#headline](https://github.com/Sunlice/my-docsify-site.git))
+[github提交](https://github.com/Sunlice/my-docsify-site.git)

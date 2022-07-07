@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 * [首页](/)
 * [基本信息](/baseinfo.md)
 * [设施](/facilities.md)
