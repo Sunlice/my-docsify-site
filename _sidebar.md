@@ -1,4 +1,15 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](zh-cn/)
-* [指北](zh-cn/guide)
+* [首页](/)
+* [基本信息](/baseinfo.md)
+* [设施](/facilities.md)
+* [室内各种](/rooms)
+* * [热水器](/rooms/reshuiqi.md)
+* * [窗户](/rooms/windows.md)
+* * [门锁](/rooms/door.md)
+* * [新风系统](/rooms/newwind.md)
+* * [空调](/rooms/air.md)
+* * [可视对讲](/rooms/monitor.md)
+* * [墙壁](/rooms/wall.md)
+* * [马桶](/rooms/toilet.md)
+* * [水龙头](/rooms/tap.md)
