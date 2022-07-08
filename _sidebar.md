@@ -12,4 +12,5 @@
 * * [墙壁](/rooms/wall.md)
 * * [马桶](/rooms/toilet.md)
 * * [水龙头](/rooms/tap.md)
+* * [灯具](/rooms/light.md)
 * [卫生防疫](/medical.md)
