@@ -3,6 +3,7 @@
   * [常用电话](/tel.md)
   * [常用信息](/info.md)
 * [室内各种](/rooms)
+* * [网络](./rooms/network.md)
 * * [热水器](/rooms/reshuiqi.md)
 * * [窗户](/rooms/windows.md)
 * * [门锁](/rooms/door.md)
