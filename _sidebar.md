@@ -2,10 +2,6 @@
 * [基本信息]
   * [常用电话](/tel.md)
   * [常用信息](/info.md)
-* [配套](/facilities.md)
-  * [健身]
-  * [儿童]
-  * [菜鸟]
 * [室内各种](/rooms)
 * * [热水器](/rooms/reshuiqi.md)
 * * [窗户](/rooms/windows.md)
