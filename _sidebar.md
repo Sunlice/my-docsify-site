@@ -15,3 +15,4 @@
   - [水龙头](/rooms/tap.md)
   - [灯具](/rooms/light.md)
 - [卫生防疫](/medical.md)
+- [邻居事业](/nextdoor.md)
